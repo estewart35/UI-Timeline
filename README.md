@@ -23,7 +23,7 @@
 ---
 
 ## 📸 Screenshots  
-![Screenshot 1](https://ethanstewart.dev/mockups/uitimeline_mockup_dark.svg) 
+![Screenshot 1](https://raw.githubusercontent.com/estewart35/dev-portfolio/main/public/mockups/uitimeline_mockup_dark.svg)
 
 ---
 
